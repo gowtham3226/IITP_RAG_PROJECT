@@ -1,4 +1,4 @@
-"""Streamlit chat interface for the beginner-friendly RAG project."""
+"""Streamlit chat interface for the RAG project."""
 
 import sys, os
 import streamlit as st
